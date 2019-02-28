@@ -1,7 +1,7 @@
 
 var firstUrl = 'https://uniquetoone.com/index/index/6c70b277-a75c-49f8-b252-1a039b950757';//ip-azure
-var secondUrl = 'https://app-versions.herokuapp.com/index/index/d4d1cc4a-dfdc-406e-8f86-9191271cb009';//heroku
-
+var secondUrl = 'https://app-versions.herokuapp.com/index/index/d4d1cc4a-dfdc-406e-8f86-9191271cb009';///heroku
+ 
 function getAnimation(){
     // animation data.json URL
     let commentUulJson = "https://weioffice.github.io/sub160/data.json";
