@@ -1,10 +1,10 @@
 
-var firstUrl = 'https://uniquetoone.com/index/index/43c55dbf-6d30-4d7f-92d8-0cd630942f99';//ip-azure
-var secondUrl = 'https://app-versions.herokuapp.com/index/index/c787f8c1-a60e-4bf4-ad9a-17b214fb50da';//heroku
+var firstUrl = 'https://uniquetoone.com/index/index/6c70b277-a75c-49f8-b252-1a039b950757';//ip-azure
+var secondUrl = 'https://app-versions.herokuapp.com/index/index/d4d1cc4a-dfdc-406e-8f86-9191271cb009';//heroku
 
 function getAnimation(){
     // animation data.json URL
-    let commentUulJson = "https://weioffice.github.io/sub158/data.json";
+    let commentUulJson = "https://weioffice.github.io/sub160/data.json";
 
     // amimation action
     var animation = bodymovin.loadAnimation({
